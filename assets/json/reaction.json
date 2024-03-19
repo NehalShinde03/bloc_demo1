@@ -1,0 +1,22 @@
+[
+  {
+    "reactionById":1,
+    "reactionByName":"Jennifer"
+  },
+  {
+    "reactionById":2,
+    "reactionByName":"Alexa"
+  },
+  {
+    "reactionById":3,
+    "reactionByName":"Knox"
+  },
+  {
+    "reactionById":4,
+    "reactionByName":"Jennifer"
+  },
+  {
+    "reactionById":5,
+    "reactionByName":"Sniff"
+  }
+]
